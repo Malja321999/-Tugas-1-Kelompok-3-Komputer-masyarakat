@@ -18,24 +18,21 @@
 </style>
 </head>
 <body>
-   
-
 
 # 1945
+<<<<<<< HEAD
 ## **"As We May Think" (Seperti yang Mungkin Kita Pikirkan)**
+=======
+## **"As We May Think" (Seperti yang Mungkin Kita Pikirkan)"**
+>>>>>>> f81c2fcd180c67921a9d5e32ea23a7342e0dd34c
 
 ###### **Vannevar Bush (1890-1974)**
 _________
-<p class="justify">Pada tahun 1945, Vannevar Bush - penemu penganalisis diferensial yang kemudian mengepalai Kantor Penelitian dan Pengembangan Ilmiah AS selama Perang Dunia II. Menulis esai yang sangat cerdas dan berpengaruh tentang era informasi yang 
-akan datang. Berjudul “As We May Think”, esai ini pertama kali diterbitkan dalam edisi Juli 1945 dari <em>Atlantik Bulanan.</em> Di dalamnya, Bush menulis bahwa hanya dengan menggunakan teknologi, orang dapat mengikuti sejumlah besar pengetahuan yang sedang diciptakan dunia. “Penjumlahan dari pengalaman manusia sedang diperluas pada tingkat yang luar biasa,” katanya.
+<p class="justify">Pada tahun 1945, Vannevar Bush - Menulis esai yang berjudul “As We May Think”, esai ini pertama kali diterbitkan dalam edisi Juli 1945 dari <em>Atlantik Bulanan.</em> Bush menulis bahwa hanya dengan menggunakan teknologi, orang dapat mengikuti sejumlah besar pengetahuan yang sedang diciptakan dunia. “Penjumlahan dari pengalaman manusia sedang diperluas pada tingkat yang luar biasa,” katanya.
 
-Dengan akhir Perang Dunia II yang sudah di depan mata, Bush mencoba 
-menetapkan arah baru untuk penelitian ilmiah - jalan tujuan damai yang akan menguntungkan umat manusia, Bush secara elegan memprediksi banyak teknologi saat ini, termasuk 
-pengenalan suara, internet, <em> World Wide Web </em>, <em> ensiklopedia online </em>, <em>hypertext</em>, asisten 
-digital pribadi, layar sentuh, dan desain antarmuka pengguna interaktif.
+Dengan akhir Perang Dunia II yang sudah di depan mata, Bush secara elegan memprediksi banyak teknologi saat ini, termasuk pengenalan suara, internet, <em> World Wide Web </em>, <em> ensiklopedia online </em>, <em>hypertext</em>, asisten digital pribadi, layar sentuh, dan desain antarmuka pengguna interaktif.
 
-Tantangan utama yang ia fokuskan adalah bagaimana informasi harus diatur. Bush menemukan bahwa sistem numerik dan alfabet yang dominan tidak efektif. Sebaliknya, dia percaya bahwa pikiran manusia menyimpan dan memahami informasi melalui asosiasi, ketika pikiran kita berpindah dari satu ide ke ide 
-berikutnya, menciptakan konteks dan makna asli. 
+Tantangan utama yang ia fokuskan adalah bagaimana informasi harus diatur. Bush menemukan bahwa sistem numerik dan alfabet yang dominan tidak efektif. Sebaliknya, dia percaya bahwa pikiran manusia menyimpan dan memahami informasi melalui asosiasi, ketika pikiran kita berpindah dari satu ide ke ide  berikutnya, menciptakan konteks dan makna asli. 
 
 <em> Memex </em> adalah kepandekan dari "Pemanjang Memori" yang mana Alternatif teoritisnya untuk sebuah organisasi taksonomi. <em>Memex</em> akan membuat jejak sendiri pemikiran dan sumber informasi terkait. Perangkat dalam bentuk artikel, ensiklopedia yang mudah diakses yang terdapat pada mikrofilm (disimpan pada gulungan di dalam meja), stylus untuk menambahkan catatan sendiri langsung ke layar, dan cara untuk menghubungkan jejak orang. Dengan pengecualian mikrofilm, Bush cukup berhasil.
 
@@ -72,16 +69,12 @@ ___
 <p class="justify">
 Sebelum ENIAC beroperasi, J. Presper Eckert dan John Mauchly telah merancang  sebuah komputer yang bahkan lebih kuat, EDVAC (Electronic Discrete Variable Automatic Computer).
 
-Sedangkan arsitektur ENIAC dapat dianggap sebagai 20 mesin penambahan otomatis yang dihubungkan bersama, EDVAC menyerupai apa yang kita pikirkan sebagai komputer modern. Itu memiliki bank memori yang menyimpan program dan data komputer, dan unit pemrosesan pusat (CPU) mengambil instruksi dari memori dan mengeksekusinya. Program yang disimpan dalam memori utama diarahkan ketika data harus disalin dari 
-memori ke dalam CPU, ketika fungsi matematika diterapkan, dan ketika hasilnya harus ditulis kembali ke memori utama.
+EDVAC menyerupai apa yang kita pikirkan sebagai komputer modern. Itu memiliki bank memori yang menyimpan program dan data komputer, dan unit pemrosesan pusat (CPU) mengambil instruksi dari memori dan mengeksekusinya. Program yang disimpan dalam memori utama diarahkan ketika data harus disalin dari memori ke dalam CPU, ketika fungsi matematika diterapkan, dan ketika hasilnya harus ditulis kembali ke memori utama.
 
-<em> Von Neumann </em> dan rekan fisikawan merancang lensa peledak yang digunakan untuk meledakkan bom ledakan yang digunakan di Trinity, New Mexico, dan Nagasaki dan Hiroshima, Jepang. Saat mengerjakan perhitungan yang sangat rumit itu, <em> Von Neumann </em> Berkesempatan bertemu di stasiun kereta api dengan Herman Goldstine, seorang ahli matematika yang merupakan penghubung Angkatan Darat dengan Eckert dan Mauchly di University of Pennsylvania. Goldstine memperkenalkan Von Neumann kepada Eckert dan Mauchly; segera setelah itu, Von Neumann bergabung dengan kelompok belajar yang merancang EDVAC.
+<em> Von Neumann </em> dan rekan fisikawan merancang lensa peledak yang digunakan untuk meledakkan bom ledakan yang digunakan di Trinity, New Mexico, dan Nagasaki dan Hiroshima, Jepang. Saat mengerjakan perhitungan yang sangat rumit itu,  Goldstine memperkenalkan Von Neumann kepada Eckert dan Mauchly; segera setelah itu, Von Neumann bergabung dengan kelompok belajar yang merancang EDVAC.
 
-Von Neumann menulis catatannya saat bepergian ke Los Alamos, New Mexico, 
-dan mengirimkannya kembali ke Goldstine, yang mengetiknya, berjudul dokumen Draf Pertama Laporan tentang EDVAC,masukkan nama von Neumann di sampulnya (walaupun sebagian besar karya Eckert dan Mauchly), dan mendistribusikan 24 eksemplar. 
+Von Neumann menulis catatannya saat bepergian ke Los Alamos, New Mexico, dan mengirimkannya kembali ke Goldstine, yang mengetiknya, berjudul dokumen Draf Pertama Laporan tentang EDVAC,masukkan nama von Neumann di sampulnya (walaupun sebagian besar karya Eckert dan Mauchly), dan mendistribusikan 24 cetak. 
 
-Meskipun komputer modern memiliki arsitektur yang mendekati mesin yang dikembangkan oleh Howard Aiken - yang disebut arsitektur Harvard - frase “arsitektur von Neumann” masih banyak digunakan untuk menggambarkan 
-komputer modern.
 
 ![](asset/EDVAC.png "")
 </p>
@@ -119,8 +112,7 @@ Seorang insinyur Inggris bernama Ralph Benjamin merancang trackball prototipe pe
 
 Pada tahun 1952, insinyur Kanada Tom Cranston, Fred Longstaff, dan Kenyon Taylor membangun konsep Benjamin dan merancang trackball untuk sistem Digital Automated Tracking and Resolve (DATAR) Angkatan Laut Kanada, sistem informasi medan perang yang terkomputerisasi. Desainnya berdasarkan bola bowling lima poin Kanada, memungkinkan operator untuk mengontrol dan melacak lokasi input pengguna di layar.
 
-Roller ball Benjamin akhirnya memiliki pengaruh besar pada perkembangan mouse dan trackball modern. Bola rol berbeda dari mouse dalam hal itu adalah objek stasioner yang dikendalikan oleh tangan dan jari pengguna yang bergerak 
-di atasnya, daripada memposisikan ulang seluruh perangkat ke lokasi yang berbeda di ruang fisik.
+Roller ball Benjamin akhirnya memiliki pengaruh besar pada perkembangan mouse dan trackball modern. Bola rol berbeda dari mouse dalam hal itu adalah objek stasioner yang dikendalikan oleh tangan dan jari pengguna yang bergerak di atasnya, daripada memposisikan ulang seluruh perangkat ke lokasi yang berbeda di ruang fisik.
 
 
 ![](asset/Trackball.png "")
@@ -154,17 +146,14 @@ di atasnya, daripada memposisikan ulang seluruh perangkat ke lokasi yang berbeda
 ###### **Frederic Calland Williams** (1911–1977), **Tom Kilburn** (1921–2001)
 ___
 
-<p class="justify">Tabung Williams (kadang-kadang dikenal sebagai Tabung William–Kilburn), adalah sistem memori elektronik pertama, dan yang pertama menyediakan akses acak, artinya setiap lokasi memori dapat diakses dalam urutan apa pun.
+<p class="justify">Tabung Williams (kadang-kadang dikenal sebagai Tabung William–Kilburn), adalah sistem memori elektronik pertama, menyediakan akses acak, artinya setiap lokasi memori dapat diakses dalam urutan apa pun.
 
 Tabung itu adalah tabung sinar katoda, seperti yang mungkin 
-digunakan dalam tampilan radar Perang Dunia II, tetapi dimodifikasi sehingga titik-titik yang ditampilkan di layar dapat dibaca oleh komputer. Tabung Williams awal menyimpan data satu digit biner — 0 atau 1 — pada suatu waktu dalam susunan persegi panjang, biasanya 64 x 32. Dikembangkan di University of Manchester oleh Frederic Williams dan Tom Kilburn, tabung lebih unggul daripada penundaan merkuri line memory yang telah digunakan pada komputer EDSAC dan UNIVAC, karena bit apapun dapat diakses secara instan. Sebaliknya, bit-bit dalam garis tunda hanya dapat dibaca ketika telah berkembang melalui merkuri ke akhir baris. 
+digunakan dalam tampilan radar Perang Dunia II, tetapi dimodifikasi sehingga titik-titik yang ditampilkan di layar dapat dibaca oleh komputer. Tabung Williams awal menyimpan data satu digit biner — 0 atau 1 — pada suatu waktu dalam susunan persegi panjang, biasanya 64 x 32. 
 
-Komputer IBM 701 menggunakan 72 tabung Williams untuk menyimpan 2.048 kata 36-bit; memori elektronik ini dilengkapi dengan drum magnet berputar yang dapat menampung sekitar empat kali lebih banyak memori tetapi jauh lebih lambat 
-untuk diakses. Namun, tabung Williams tidak terlalu andal, dan 701 dilaporkan hanya akan berjalan selama 15 menit sebelum mogok karena kesalahan memori. Memang, tabung itu sangat tidak dapat diandalkan sehingga Mesin Eksperimental 
-Skala Kecil Manchester (SSEM), dijuluki Bayi, dibangun khusus untuk tujuan pengujian tabung Williams.
+Komputer IBM 701 menggunakan 72 tabung Williams untuk menyimpan 2.048 kata 36-bit; Namun, tabung Williams tidak terlalu andal, dan 701 dilaporkan hanya akan berjalan selama 15 menit sebelum mogok karena kesalahan memori. Memang, tabung itu sangat tidak dapat diandalkan sehingga Mesin Eksperimental Skala Kecil Manchester (SSEM), dijuluki Bayi, dibangun khusus untuk tujuan pengujian tabung Williams.
 
-Komputer Whirlwind MIT, pertama kali beroperasi pada tahun 1949, pada awalnya dirancang untuk menggunakan tabungWilliams yang dimodifikasi yang menghilangkan kebutuhan untuk menyegarkan dengan menggunakan senjata elektron kedua yang disebut apistol banjir; pendekatan yang sama akan digunakan hampir tiga dekade kemudian dalam tampilan tabung penyimpanan, seperti terminal grafis dan osiloskop yang digunakan di laboratorium elektronik untuk memantau 
-sirkuit. Tetapi tabung Williams yang dimodifikasi berharga $ 1.000 masing-masing dan memiliki masa pakai sekitar satu bulan. Disibukkan dengan masalah yang disebabkan oleh tabung penyimpanan ini, direktur Whirlwind, Jay Forreste (1918–2016), menemukan memori inti sebagai penggantinya.
+Komputer Whirlwind MIT, pertama kali beroperasi pada tahun 1949, pada awalnya dirancang untuk menggunakan tabung Williams yang dimodifikasi yang menghilangkan kebutuhan untuk menyegarkan dengan menggunakan senjata elektron kedua yang disebut apistol banjir; Tetapi tabung Williams yang dimodifikasi berharga $ 1.000 masing-masing dan memiliki masa pakai sekitar satu bulan. Disibukkan dengan masalah yang disebabkan oleh tabung penyimpanan ini, direktur Whirlwind, Jay Forreste (1918–2016), menemukan memori inti sebagai penggantinya.
 
 ![](asset/TabungWilliams.png "")
 </p>
@@ -197,11 +186,9 @@ sirkuit. Tetapi tabung Williams yang dimodifikasi berharga $ 1.000 masing-masing
 ###### **Howard Aiken**(1900–1973), **William “Bill” Burke**(tanggal tidak tersedia), **Grace Murray Hopper**(1906–1992)
 ___
 
-<p class="justify">Profesor Harvard Howard Aiken menyelesaikan komputer Mark II pada tahun 1947 untuk Naval Proving Ground di Dahlgren Virginia. Dengan 13.000 relai elektromekanis berkecepatan tinggi, Mark II memproses angka desimal 10 digit, melakukan operasi titik mengambang, dan membaca instruksinya dari pita kertas berlubang. Hari ini kita masih menggunakan frase "arsitektur Harvard" untuk menggambarkan komputer yang secara 
-terpisah menyimpan program mereka dari data mereka, tidak seperti mesin "Von Neumann" yang menyimpan kode dan data dalam memori yang sama.
+<p class="justify">Profesor Harvard Howard Aiken menyelesaikan komputer Mark II pada tahun 1947 untuk Naval Proving Ground di Dahlgren Virginia. Saat ini kita masih menggunakan frase "arsitektur Harvard" untuk menggambarkan komputer yang secara terpisah menyimpan program mereka dari data mereka, tidak seperti mesin "Von Neumann" yang menyimpan kode dan data dalam memori yang sama.
 
-Namun yang membuat Mark II berkesan bukanlah cara pembuatannya atau pita kertasnya, melainkan apa yang terjadi pada 9 September 1947. Pada hari itu pukul 10:00 pagi komputer gagal dalam tes, menghasilkan angka 2.130476415 bukannya 2.130676415. Operator menjalankan tes lagi pada pukul 11:00, dan kemudian lagi pada pukul 15:25 Akhirnya, pada pukul 15:45, operator komputer, termasuk William “Bill” 
-Burke, melacak masalah tersebut ke ngengat yang bersarang di dalam Relay # 70, Panel F. Operator dengan hati-hati menghapus bug dan menempelkannya ke buku catatan laboratorium, dengan notasi "Kasus bug pertama yang sebenarnya ditemukan."
+Pada hari itu pukul 10:00 pagi komputer gagal dalam tes, menghasilkan angka 2.130476415 bukannya 2.130676415. Operator menjalankan tes lagi pada pukul 11:00, dan kemudian lagi pada pukul 15:25 Akhirnya, pada pukul 15:45, operator komputer, termasuk William “Bill” Burke, melacak masalah tersebut ke ngengat yang bersarang di dalam Relay # 70, Panel F. Operator dengan hati-hati menghapus bug dan menempelkannya ke buku catatan laboratorium, dengan notasi "Kasus bug pertama yang sebenarnya ditemukan."
 
 Grace Hopper tidak benar-benar menemukan bug itu, tetapi dia menceritakan kisah itu dengan sangat baik, dan berkali-kali, 
 sehingga banyak sejarah sekarang secara keliru memuji dia dengan penemuan itu. Adapun kata bug, itu telah digunakan untuk menggambarkan kesalahan pada mesin sejak tahun 1875;
@@ -243,7 +230,7 @@ Teknologi apa pun yang dapat menggunakan satu sinyal untuk menghidupkan dan mema
 
 Demikian juga, transistor memiliki beberapa keunggulan dibandingkan tabung vakum: mereka menggunakan lebih sedikit daya, sehingga menghasilkan lebih sedikit panas, beralih lebih cepat, dan kurang rentan terhadap kejutan fisik. Semua keuntungan ini muncul karena transistor lebih kecil dari tabung - dan semakin kecil transistor, semakin besar keuntungannya.
 
-Tim Bell Labs membuat alat yang menempelkan dua lembar kertas emas ke kristal dan kemudian menerapkan kekuatan ke kristal itu germanium. Hasilnya adalah penguat: sinyal yang disuntikkan ke satu kawat lebih kuat ketika keluar dari yang lain. Hari ini kami menyebut perangkat ini sebagaitransistor 
+Tim Bell Labs membuat alat yang menempelkan dua lembar kertas emas ke kristal dan kemudian menerapkan kekuatan ke kristal itu germanium. Hasilnya adalah penguat: sinyal yang disuntikkan ke satu kawat lebih kuat ketika keluar dari yang lain. Hari ini kami menyebut perangkat ini sebagai transistor 
 kontak titik. Untuk penemuan transistor mereka, Bardeen Brattain, dan Shockley dianugerahi Hadiah Nobel pada tahun 1956.
 
 ![](asset/TransistorSilikon.png "")
@@ -278,9 +265,7 @@ ___
 <p class="justify">
 Itu adalah matematikawan Jerman Gottfried Wilhelm Leibniz (1646-1716) yang pertama kali menetapkan aturan untuk melakukan aritmatika dengan bilangan biner. Hampir 250 tahun  kemudian, Claude E. Shannon menyadari bahwa angka biner - sebuah 0 atau 1 - adalah unit informasi yang fundamental dan tak terpisahkan.
 
-Shannon memperoleh gelar PhD dari MIT pada tahun 1940 dan kemudian mengambil posisi di Institute for Advanced Study di Princeton, New Jersey, di mana ia bertemu dan berkolaborasi dengan ahli matematika terkemuka di institut. 
-
-Pada tahun 1948, Shannon menerbitkan "A Mathematical Theory of Communication" diJurnal Teknis Sistem Bel.Artikel tersebut sebagian terinspirasi oleh pekerjaan rahasia yang dilakukan Shannon tentang kriptografi selama perang. Di dalamnya, ia menciptakan definisi matematis dari sistem komunikasi umum, yang terdiri dari pesan yang akan dikirim, pemancar untuk mengubah pesan menjadi sinyal, saluran melalui mana sinyal dikirim, penerima, dan tujuan, seperti seseorang atau mesin "untuk siapa pesan itu dimaksudkan."
+Shannon memperoleh gelar PhD dari MIT pada tahun 1940 Kemudian, pada tahun 1948, Shannon menerbitkan "A Mathematical Theory of Communication" diJurnal Teknis Sistem Bel. Artikel tersebut sebagian terinspirasi oleh pekerjaan rahasia yang dilakukan Shannon tentang kriptografi selama perang. Di dalamnya, ia menciptakan definisi matematis dari sistem komunikasi umum, yang terdiri dari pesan yang akan dikirim, pemancar untuk mengubah pesan menjadi sinyal, saluran melalui mana sinyal dikirim, penerima, dan tujuan, seperti seseorang atau mesin "untuk siapa pesan itu dimaksudkan."
 
 Makalah Shannon memperkenalkan kata bit, digit biner, sebagai unit dasar informasi. Karya Shannon menjelaskan hubungan antara informasi dan entropi, sehingga membangun hubungan antara komputasi dan fisika. Memang, fisikawan terkenal Stephen Hawking membingkai banyak analisisnya tentang lubang hitam dalam hal kemampuan untuk menghancurkan informasi dan masalah yang diciptakan sebagai hasilnya.
 
@@ -317,14 +302,14 @@ ___
 Curta mungkin adalah kalkulator mekanik paling elegan ringkas, dan fungsional yang pernah diproduksi. Dirancang oleh insinyur Austria Curt Herzstark, ini adalah satu-satunya 
 kalkulator saku mekanik digital yang pernah ditemukan. Digenggam dan ditenagai oleh engkol di bagian atas, Curta dapat menambah, mengurangi, mengalikan, dan membagi.
 
-Ayah Curt Herzstark, Samuel Jacob Herzstark, adalah importir Austria yang sangat dihormati dan produsen kalkulator mekanik dan instrumen presisi lainnya. Herzstark menyelesaikan sekolah menengah dan magang di perusahaan ayahnya, yang dia ambil alih ketika ayahnya meninggal pada tahun 1937.
+Ayah Curt Herzstark, Samuel Jacob Herzstark, adalah importir Austria yang sangat dihormati dan produsen kalkulator mekanik dan instrumen presisi lainnya. 
 
-Pada saat itu, kalkulator mekanik adalah urusan desktop yang besar dan berat. Setelah salah satu pelanggan Herzstark mengeluh bahwa dia tidak ingin kembali ke  kantor hanya untuk menjumlahkan kolom angka, Herzstark mulai merancang kalkulator genggam. Dia memiliki prototipe awal yang bekerja pada Januari 1938, hanya dua bulan sebelum Jerman menginvasi dan mencaplok Austria. Meskipun Herzstark setengah Yahudi, Nazi membiarkan dia terus mengoperasikan pabrik, asalkan  menghentikan semua produksi sipil dan mengabdikan dirinya untuk menciptakan perangkat untuk Reich.
+Pada saat itu, kalkulator mekanik adalah urusan desktop yang besar dan berat. Setelah salah satu pelanggan Herzstark mengeluh bahwa dia tidak ingin kembali ke  kantor hanya untuk menjumlahkan kolom angka, Herzstark mulai merancang kalkulator genggam.
 
 
-Pada tahun 1943, dua karyawan Herzstark ditangkap karena mendistribusikan transkrip siaran radio Inggris; Herzstark kemudian ditangkap karena membantu karyawan dan karena "kontak tidak senonoh dengan wanita Arya." Dia dikirim ke kamp konsentrasi Buchenwald, di mana dia dikenali oleh salah satu mantan karyawannya, yang sekarang menjadi penjaga Penjaga itu memberi tahu kepala pabrik kamp tentang kalkulator mekanis. Jerman kemudian menginstruksikan Herzstark untuk menyelesaikan proyeknya, sehingga pihak kamp dapat memberikan perangkat tersebut kepada Hitler sebagai hadiah setelah Jerman memenangkan perang. Itu tidak pernah terjadi: Buchenwald dibebaskan pada 11 April 1945, dan Hitler bunuh diri 19 hari kemudian.
+Pada tahun 1943, dua karyawan Herzstark ditangkap karena mendistribusikan transkrip siaran radio Inggris; Herzstark kemudian ditangkap karena membantu karyawan dan karena "kontak tidak senonoh dengan wanita Arya." Dia dikirim ke kamp konsentrasi Buchenwald, di mana dia dikenali oleh salah satu mantan karyawannya, yang sekarang menjadi penjaga.
 
-Setelah pembebasan, Herzstark membawa gambar yang telah dia buat di kamp ke toko mesin dan memiliki tiga prototipe yang berfungsi delapan minggu kemudian. Kalkulator pertama diproduksi secara komersial pada musim gugur 1948.
+Penjaga itu memberi tahu kepala pabrik kamp tentang kalkulator mekanis. Setelah pembebasan, Herzstark membawa gambar yang telah dia buat di kamp ke toko mesin dan memiliki tiga prototipe yang berfungsi delapan minggu kemudian. Kalkulator pertama diproduksi secara komersial pada musim gugur 1948.
 
 ![](asset/Curta.png "")
 </p>
@@ -362,7 +347,7 @@ Karena program disimpan dalam memori, dan mengandalkan kode modifikasi sendiri, 
 
 
 Mencapai jawaban yang benar bukanlah hal yang mudah. Seperti yang dilaporkan Williams, “Bintik-bintik pada tabung tampilan memasuki tarian gila. Dalam uji coba awal, itu adalah tarian 
-kematian yang tidak membawa hasil yang berguna. . . Tetapi suatu hari itu berhenti, dan di sana, bersinar terang di tempat yang diharapkan, adalah jawaban yang diharapkan.”
+kematian yang tidak membawa hasil yang berguna. Tetapi suatu hari itu berhenti, dan di sana, bersinar terang di tempat yang diharapkan, adalah jawaban yang diharapkan.”
 
 ![](asset/SSEM.png "")
 </p>
@@ -394,16 +379,12 @@ kematian yang tidak membawa hasil yang berguna. . . Tetapi suatu hari itu berhen
 ###### **Jay Forrester** (1918–2016), **Robert R. Everett** (b. 1921)
 ___
 <p class="justify">
-Pada tahun 1944, Angkatan Laut AS meminta Laboratorium Servomekanisme MIT untuk membuat simulator penerbangan untuk melatih pilot Angkatan Laut. MIT mencoba membangun komputer analog, tetapi jelas bahwa hanya mesin digital yang dapat menawarkan kecepatan, fleksibilitas, dan kemampuan program yang diperlukan untuk membuat simulasi realistis. Jadi, pada tahun 1945, Office of Naval Research mengontrak MIT untuk menciptakan apa yang akan menjadi komputer real - time interaktif pertama di dunia.
+Pada tahun 1944, Angkatan Laut US meminta Laboratorium Servomekanisme MIT untuk membuat simulator penerbangan untuk melatih pilot Angkatan Laut. MIT mencoba membangun komputer analog, tetapi jelas bahwa hanya mesin digital yang dapat menawarkan kecepatan, fleksibilitas, dan kemampuan program yang diperlukan untuk membuat simulasi realistis. Jadi, pada tahun 1945, Office of Naval Research mengontrak MIT untuk menciptakan apa yang akan menjadi komputer real - time interaktif pertama di dunia.
 
 Whirlwind di telpon, mesin itu merupakan pekerjaan besar: proyek itu melibatkan 175 orang dengan anggaran $1 juta per tahun. Mesin tersebut menggunakan 3.300 tabung vakum dan menempati 3.300 kaki persegi di MIT Building N42, Sebuah
 Bangunan dua lantai seluas 25.000 kaki persegi yang dibeli MIT khusus untuk proyek tersebut.
 
-Whirlwind memiliki tampilan grafis komputer pertama, sepasang layar video 5 inci di mana komputer dapat menggambar peta wilayah udara. Itu juga memiliki perangkat  input grafis pertama, "pena ringan" (ditemukan oleh associate director Robert R. Everett), untuk memilih titik di layar. Ketika Whirlwind sebagian beroperasi pada tahun 1949, profesor MIT Charles Adams dan programmer John Gilmore Jr. menggunakan 
-kemampuan grafisnya untuk membuat salah satu video game pertama: garis dengan lubang, dan bola yang membuat tunk berbunyi setiap kali memantul. Tujuannya adalah untuk memindahkan lubang sehingga bola akan jatuh.
-
-Namun, segera, jelas bahwa teknologi elektronik saat itu perlu ditingkatkan. Tabung vakum Whirlwind terus terbakar. Laboratorium melakukan analisis mendalam dan menentukan bahwa jumlah jejak silikon di katoda tabung salah. Laboratorium telah menghilangkan kontaminan, dan masa pakai tabung 
-diperpanjang dengan faktor seribu. Ketika menjadi, jelas bahwa komputer akan membutuhkan memori yang lebih besar dan lebih dapat diandalkan daripada tabung penyimpanan, Forrester menemukan memori inti magnetik, yang akan menjadi sistem penyimpanan utama komputer selama dua dekade berikutnya. Kemudian, ketika menjadi jelas bahwa Whirlwind membutuhkan kode yang akan secara permanen berada di komputer, memuat program lain, dan menyediakan fungsi dasar, proyek mendorong penemuan sistem operasi pertama.
+Whirlwind memiliki tampilan grafis komputer pertama, sepasang layar video 5 inci di mana komputer dapat menggambar peta wilayah udara. Ketika Whirlwind sebagian beroperasi pada tahun 1949, profesor MIT Charles Adams dan programmer John Gilmore Jr. menggunakan kemampuan grafisnya untuk membuat salah satu video game pertama: garis dengan lubang, dan bola yang membuat tunk berbunyi setiap kali memantul. Tujuannya adalah untuk memindahkan lubang sehingga bola akan jatuh.
 
 Whirlwind beroperasi penuh pada tahun 1951. Meskipun tidak pernah benar-benar digunakan sebagai simulator penerbangan, tampilan grafisnya menunjukkan bahwa komputer dapat menyajikan peta dan melacak objek, menunjukkan kelayakan menggunakan komputer untuk pertahanan udara.
 
