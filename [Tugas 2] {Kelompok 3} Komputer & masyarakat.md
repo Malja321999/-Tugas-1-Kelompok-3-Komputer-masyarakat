@@ -22,7 +22,7 @@
 
 
 # 1945
-##**"As We May Think" (Seperti yang Mungkin Kita Pikirkan)**
+## **"As We May Think" (Seperti yang Mungkin Kita Pikirkan)**
 
 ###### **Vannevar Bush (1890-1974)**
 _________
