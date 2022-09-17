@@ -17,8 +17,6 @@ figure{
   width: 80%; 
 }
 
-
- 
 </style>
 </head>
 <body>
@@ -129,7 +127,7 @@ Pada tahun 1947, penemuan transistor sangat memengaruhi perkembangan komputer. T
 </p>
 
 <figure class="center">
-  <img src="asset/reco.png" alt="Trulli">
+  <img src="asset/Recognition.png" alt="Trulli">
   <figcaption>Speech Recognition Computer</figcaption>
 </figure>
 
