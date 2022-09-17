@@ -77,7 +77,7 @@ Pada tahun 1947, untuk pertama kali nya dilakukanya pencatatan bug oleh operator
 </p>
 
 <figure class="center">
-  <img src="asset/BUG.png" alt="Trulli">
+  <img src="asset/Bug.png" alt="Trulli">
   <figcaption>BUG</figcaption>
 </figure>
 
